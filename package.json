@@ -1,0 +1,21 @@
+{
+  "name": "mongo-transfer-api",
+  "version": "1.0.0",
+  "description": "Node.js and MongoDB account transfer API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "mongoose",
+    "mongodb",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  }
+}
